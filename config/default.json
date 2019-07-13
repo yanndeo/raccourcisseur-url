@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://yanndeo:deo1234@devworker-wovin.mongodb.net/url_shortener?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:3000/"
+        
+
+}
