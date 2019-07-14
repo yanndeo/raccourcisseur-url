@@ -4,7 +4,7 @@ const config = require('config');
 
 
 
-const db = config.mongoURI;
+const db = config.get("mongoURI"); //config.mongoURI;    
 const connectDB = async() =>{
 
     try {

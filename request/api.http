@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+    "longUrl": "https://stackoverflow.com/questions/19035373/how-do-i-redirect-in-expressjs-while-passing-some-context"
+}
