@@ -1,4 +1,4 @@
-# Raccourcisseurl-url 1.0
+# Raccourcisseur-url 1.0
 
 > Api url shortener
 Il s'agit là d'une petite api sans authentification quelquonque , tournant sous nodeJs . Il stocke l'url (longUrl) qui lui est fournit et retourne une version d'ulr courte et claire (shortUrl), qui redigera malgré tout ,l'utilisateur sur la bonne page, le bon site.Tout en stockant la version longue et la version raccourcit en base de donnée (mongo cloud) .
